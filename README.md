@@ -6,3 +6,7 @@ Projeto FintechFIAP, utilizando HTML, CSS, e JavaScript, consiste em uma Dashboa
 
 <img src=https://github.com/veigv/fintech_fiap/blob/main/Captura%20de%20Tela%202023-12-13%20a%CC%80s%2020.56.13.png>
 <img src=https://github.com/veigv/fintech_fiap/blob/main/Captura%20de%20Tela%202023-12-13%20a%CC%80s%2020.57.18.png>
+
+Ésdras Souza
+RM553311
+1º Semestre ADS - FIAP
